@@ -67,7 +67,7 @@ search_information
 knowledge_graph: { ... }
 ```
 
-Knowledge Graph Includes:
+Knowledge Graph / Organic Results Includes:
 
 - Business name  
 - Category  
@@ -76,6 +76,8 @@ Knowledge Graph Includes:
 - Reviews  
 - Menu links  
 - Organic results [ ... ]
+
+Sometimes the organic results are in the main result dictionary without the knowledge graph. 
 
 **Raw Example:**  
 - sample_google_seardchapi_result_bad_business_name.rtf  
