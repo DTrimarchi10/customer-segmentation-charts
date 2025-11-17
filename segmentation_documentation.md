@@ -10,31 +10,8 @@ The segmentation workflow uses **SearchAPI** to retrieve structured business inf
 
 🔗 https://www.searchapi.io/
 
----
 
-## **1.1 SearchAPI Engines**
-
-SearchAPI offers 50+ engines. Only two are used in segmentation API (Google Maps and Google).
-
-
-<summary><strong>Here's a sample of the engine list</strong></summary>
-
-- **google**  
-- **google_maps**    
-- google_reviews  
-- google_images  
-- google_news  
-- yelp  
-- bing  
-- duckduckgo  
-- tripadvisor  
-- apple_reviews  
-- amazon  
-- ebay  
-- walmart  
-- reddit  
-…and many others.
-
+SearchAPI offers several engines. Only two are used in segmentation API (Google Maps and Google).
 
 
 ---
